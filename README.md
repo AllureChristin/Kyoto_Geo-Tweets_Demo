@@ -1,7 +1,8 @@
 # Kyoto_Geo-Tweets_Demo
 
 This is a Demo of point of interest (POI) and Twitter check-in data (Tweets, about 2000 items)
-
+POIs: Map_Tile_496.osm
+Tweets: 
 We provide a Tweets data set on Google Maps,
 but limited to the item display cap of Google Maps, only 200 Tweets can be checked.
 https://www.google.com/maps/d/edit?mid=1uGJ5AfytBZE9w3rWSNrA6PXN2EktSQrj&usp=sharing
