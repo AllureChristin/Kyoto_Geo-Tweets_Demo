@@ -2,7 +2,7 @@
 
 This is a Demo of point of interest (POI) and Twitter check-in data (Tweets, about 2000 items)
 
-POIs: Map_Tile_496.osm
+POIs: Map_Tile_496.osm      (node_id)
 
 Tweets: Tweets_Demo.csv
 
