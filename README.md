@@ -14,6 +14,8 @@ Coordinates,
 URL of Images,
 Date.
 
+<img width="1076" alt="WX20220823-164830@2x" src="https://user-images.githubusercontent.com/38413308/186102277-a00e0ec4-aeee-4e97-bcae-2d79704624f3.png">
+<img width="641" alt="WX20220823-164923@2x" src="https://user-images.githubusercontent.com/38413308/186102293-ce9de3f4-757f-4ac0-a5f8-7cd9fb6b1bb1.png">
 
 
 
